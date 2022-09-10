@@ -1,1 +1,1 @@
-Write a program that prints single digit numbers
+Write a program that prints lower cas alphabets in reverse
