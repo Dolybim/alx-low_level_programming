@@ -1,1 +1,1 @@
-Write a program that prints the alphabet
+Write a program that prints single digit numbers
