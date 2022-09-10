@@ -1,1 +1,1 @@
-Write a program that prints lower cas alphabets in reverse
+Write a program that prints numbers of base 16
