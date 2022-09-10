@@ -1,1 +1,1 @@
-Write a program that prints numbers of base 16
+Write a program that prints all combinations
