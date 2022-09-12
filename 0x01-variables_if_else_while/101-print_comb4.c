@@ -3,6 +3,8 @@
 /**
  * main - Print all possible comb of three different numbers
  *
+ * Description - print triple digit numbers
+ *
  * Return: Always 0 (Success)
  */
 
