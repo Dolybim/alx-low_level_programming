@@ -1,1 +1,1 @@
-Write a program that prints all combinations
+Write a program that prints all combs of three digits
