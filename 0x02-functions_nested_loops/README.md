@@ -1,1 +1,1 @@
-Write a program that prints alphabets
+Write a program that prints putchar
